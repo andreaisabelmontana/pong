@@ -4,6 +4,8 @@ A clean, modern take on **Pong**. First to 11 points. The ball's bounce angle de
 
 **▶ Play:** https://andreaisabelmontana.github.io/rebound/
 
+> **Not an original idea.** This recreates the concept of an existing project — I didn't invent it. I rebuilt it from scratch, my own way, out of curiosity about how it actually works (and tried to make it a little better along the way).
+
 ## Features
 
 - **Paddle-spin physics** — contact point sets the deflection angle (±~68°)

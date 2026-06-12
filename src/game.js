@@ -1,4 +1,4 @@
-// Rebound — a modern Pong.
+// Pong — a modern Pong.
 // Fixed 900x600 logical field, rendered crisp at device resolution.
 // Ball bounce angle depends on where it strikes the paddle, so players can
 // "aim" by hitting with the paddle edge — and impart a little vertical spin.

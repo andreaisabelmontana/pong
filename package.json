@@ -1,0 +1,10 @@
+{
+  "name": "pong",
+  "version": "1.0.0",
+  "description": "A clean, modern Pong — paddle-spin physics, three CPU difficulties, first to 11.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test"
+  }
+}
